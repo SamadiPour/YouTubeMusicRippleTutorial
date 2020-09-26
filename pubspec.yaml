@@ -1,0 +1,20 @@
+name: youtube_music_ripple_tutorial
+description: Sample code for showing how to create a ripple just like YouTube Music app items.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.9.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
