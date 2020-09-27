@@ -1,16 +1,5 @@
-# youtube_music_ripple_tutorial
+# YouTube Music Ripple Tutorial
 
-Sample code for showing how to create a ripple just like youtube music app items
+The main goal of this repo is to show how to make a ripple effect like YouTube Music Application. These ripples are separated and limited to image only. I think it is a far better approach than "No Ripple at all" or "Ripple the whole box".
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Demo](demo/demo.gif)
