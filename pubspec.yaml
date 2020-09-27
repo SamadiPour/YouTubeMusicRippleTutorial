@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.0
+  inked_box: ^0.0.1
+  number_display: ^2.3.0
 
 dev_dependencies:
   flutter_test:
